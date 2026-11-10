@@ -1,0 +1,25 @@
+{
+  "name": "vfxgame",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "three": "0.184.0"
+  },
+  "devDependencies": {
+    "vite": "8.0.13",
+    "playwright-core": "1.60.0",
+    "sharp": "0.35.5"
+  },
+  "scripts": {
+    "catalog": "node tools/collect.mjs",
+    "build": "node tools/build.mjs",
+    "dev": "node server.mjs",
+    "check": "node tools/check-catalog.mjs",
+    "qa:browser": "node tools/qa.mjs",
+    "qa:unity": "node tools/qa-unity.mjs"
+  },
+  "version": "0.1.0",
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}

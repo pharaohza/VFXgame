@@ -1,0 +1,31 @@
+{
+  "summary": {
+    "entries": 988,
+    "sourceFiles": 5779,
+    "uniqueFiles": 3951,
+    "sourceBytes": 3414446023,
+    "uniqueBytes": 2846442324,
+    "duplicates": 1828,
+    "sources": {
+      "Hovl Studio": 115,
+      "JMO Assets": 232,
+      "PetTown Unity": 113,
+      "War of Paws": 468,
+      "PetTown Three": 60
+    },
+    "previews": {
+      "unity-adapted": 178,
+      "source": 21,
+      "recording": 211,
+      "native": 60,
+      "texture": 518
+    }
+  },
+  "notes": [
+    "Identical prefab and texture bytes are merged; all origin paths are retained.",
+    "Unity previews adapt source particle settings and textures, not Unity shader execution.",
+    "Godot recordings use authored review captures. Raw per-frame QA sequences and engine caches are excluded.",
+    "Original source files are stored in the separate local archive; docs/source-inventory.json maps donor-relative paths to SHA-256 hashes.",
+    "Only VFX textures are shown in the gallery; unrelated textures required by source dependency closure are preserved in the original archive."
+  ]
+}

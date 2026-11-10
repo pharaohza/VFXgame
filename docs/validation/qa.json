@@ -1,0 +1,543 @@
+{
+  "passed": true,
+  "previews": [
+    {
+      "id": "0cb354442a6ddab1",
+      "name": "basic bow shot",
+      "ok": true,
+      "score": 47410,
+      "bestTime": 0.23,
+      "duration": 0.63
+    },
+    {
+      "id": "49acf476b46ebcd5",
+      "name": "blessing",
+      "ok": true,
+      "score": 335071,
+      "bestTime": 2.1,
+      "duration": 5
+    },
+    {
+      "id": "a87eb646afd7cf71",
+      "name": "burn",
+      "ok": true,
+      "score": 262030,
+      "bestTime": 6.5,
+      "duration": 5
+    },
+    {
+      "id": "e7e6be4a0f0be43c",
+      "name": "Cinder Burst",
+      "ok": true,
+      "score": 648282,
+      "bestTime": 0.34,
+      "duration": 1.9
+    },
+    {
+      "id": "1adc0eb0c29b600a",
+      "name": "Clear Mind",
+      "ok": true,
+      "score": 239736,
+      "bestTime": 0.23,
+      "duration": 1.5
+    },
+    {
+      "id": "e853ab0db057b506",
+      "name": "Ember Pop",
+      "ok": true,
+      "score": 206056,
+      "bestTime": 0.34,
+      "duration": 1.5
+    },
+    {
+      "id": "54d78e498a062660",
+      "name": "Ember Slam",
+      "ok": true,
+      "score": 849996,
+      "bestTime": 0.34,
+      "duration": 1.25
+    },
+    {
+      "id": "6d400b3a387c52fa",
+      "name": "endure",
+      "ok": true,
+      "score": 326465,
+      "bestTime": 3.8,
+      "duration": 5
+    },
+    {
+      "id": "3520d23428e82799",
+      "name": "Feather Rain",
+      "ok": true,
+      "score": 635047,
+      "bestTime": 0.48,
+      "duration": 1.9
+    },
+    {
+      "id": "1e65622294cd61c5",
+      "name": "Feather Ward",
+      "ok": true,
+      "score": 2342448,
+      "bestTime": 0.34,
+      "duration": 1.9
+    },
+    {
+      "id": "d51a4558f63c6d09",
+      "name": "Flame Fence",
+      "ok": true,
+      "score": 876934,
+      "bestTime": 0.48,
+      "duration": 1.9
+    },
+    {
+      "id": "3f53dfb59f0052ff",
+      "name": "freeze",
+      "ok": true,
+      "score": 841679,
+      "bestTime": 3.8,
+      "duration": 5
+    },
+    {
+      "id": "e78c6d90a0078055",
+      "name": "fright",
+      "ok": true,
+      "score": 215355,
+      "bestTime": 0.34,
+      "duration": 5
+    },
+    {
+      "id": "6ad4800710d33d15",
+      "name": "Frost Poke",
+      "ok": true,
+      "score": 375447,
+      "bestTime": 0.34,
+      "duration": 1.9
+    },
+    {
+      "id": "eb89ba4ba9b9a400",
+      "name": "Gentle Mend",
+      "ok": true,
+      "score": 229222,
+      "bestTime": 0.34,
+      "duration": 1.5
+    },
+    {
+      "id": "0cb20ca4aa54e17f",
+      "name": "haste",
+      "ok": true,
+      "score": 331578,
+      "bestTime": 3.8,
+      "duration": 5
+    },
+    {
+      "id": "c2fbee142cacc1de",
+      "name": "haunt",
+      "ok": true,
+      "score": 283092,
+      "bestTime": 2.1,
+      "duration": 5
+    },
+    {
+      "id": "0349624d644772d0",
+      "name": "hidden",
+      "ok": true,
+      "score": 326784,
+      "bestTime": 0.07,
+      "duration": 5
+    },
+    {
+      "id": "dcb45c0141310470",
+      "name": "Ice Snare",
+      "ok": true,
+      "score": 300326,
+      "bestTime": 0.34,
+      "duration": 1.5
+    },
+    {
+      "id": "34fde563938bd0fc",
+      "name": "increase agi",
+      "ok": true,
+      "score": 329148,
+      "bestTime": 1.1,
+      "duration": 5
+    },
+    {
+      "id": "947a4b9a668e27b2",
+      "name": "Lord of Vermilion",
+      "ok": true,
+      "score": 2592797,
+      "bestTime": 0.85,
+      "duration": 3.1999999999999997
+    },
+    {
+      "id": "c4355c9b07350430",
+      "name": "Meteor",
+      "ok": true,
+      "score": 4079157,
+      "bestTime": 0.85,
+      "duration": 2.5
+    },
+    {
+      "id": "ac3e55b5e766fc38",
+      "name": "Mind Ripple",
+      "ok": true,
+      "score": 108903,
+      "bestTime": 1.1,
+      "duration": 1.5
+    },
+    {
+      "id": "c37177993f59a84e",
+      "name": "Mummy Bandage Snare",
+      "ok": true,
+      "score": 246889,
+      "bestTime": 0.85,
+      "duration": 5
+    },
+    {
+      "id": "68292f9361df43e1",
+      "name": "Mummy Priest Heal",
+      "ok": true,
+      "score": 211013,
+      "bestTime": 0.14,
+      "duration": 5
+    },
+    {
+      "id": "e35e8c0ab10e4a6a",
+      "name": "Mummy Toxic Bomb",
+      "ok": true,
+      "score": 365345,
+      "bestTime": 3.8,
+      "duration": 5
+    },
+    {
+      "id": "27553f99fb26c7a1",
+      "name": "Mummy Toxic Bomb Telegraph",
+      "ok": true,
+      "score": 494167,
+      "bestTime": 0.07,
+      "duration": 5
+    },
+    {
+      "id": "54c783f91dc0b161",
+      "name": "Paw Strike",
+      "ok": true,
+      "score": 122603,
+      "bestTime": 0.07,
+      "duration": 0.88
+    },
+    {
+      "id": "93fb8f02ab156aa2",
+      "name": "Pawsurrection",
+      "ok": true,
+      "score": 381444,
+      "bestTime": 0.23,
+      "duration": 1.5
+    },
+    {
+      "id": "b2dcf57ba728ad00",
+      "name": "petrify",
+      "ok": true,
+      "score": 306674,
+      "bestTime": 5,
+      "duration": 5
+    },
+    {
+      "id": "7da9056fa1162427",
+      "name": "poison",
+      "ok": true,
+      "score": 307781,
+      "bestTime": 1.5,
+      "duration": 5
+    },
+    {
+      "id": "b2dc310ea1aa6f6e",
+      "name": "pushback",
+      "ok": true,
+      "score": 264352,
+      "bestTime": 0.07,
+      "duration": 5
+    },
+    {
+      "id": "c5db47c9611ecb37",
+      "name": "Pushback Arrow",
+      "ok": true,
+      "score": 397524,
+      "bestTime": 0.48,
+      "duration": 1.25
+    },
+    {
+      "id": "071aec5b6d95ac92",
+      "name": "Quick Paws",
+      "ok": true,
+      "score": 382548,
+      "bestTime": 0.23,
+      "duration": 1.5
+    },
+    {
+      "id": "a17837a56be1dd56",
+      "name": "ranged ward",
+      "ok": true,
+      "score": 350003,
+      "bestTime": 6.5,
+      "duration": 5
+    },
+    {
+      "id": "ec775866bb5c0e47",
+      "name": "Rootbound Gaze",
+      "ok": true,
+      "score": 93934,
+      "bestTime": 0.48,
+      "duration": 1.9
+    },
+    {
+      "id": "108776415bdeb6d3",
+      "name": "Shadow Paws",
+      "ok": true,
+      "score": 83540,
+      "bestTime": 0.23,
+      "duration": 1.5
+    },
+    {
+      "id": "b943067b5a432a9a",
+      "name": "shock",
+      "ok": true,
+      "score": 252715,
+      "bestTime": 3.8,
+      "duration": 5
+    },
+    {
+      "id": "94c54ded2c07eca1",
+      "name": "snatch",
+      "ok": true,
+      "score": 233279,
+      "bestTime": 0.48,
+      "duration": 5
+    },
+    {
+      "id": "5aa387245f4f1a04",
+      "name": "Sneaky Snatch",
+      "ok": true,
+      "score": 182618,
+      "bestTime": 0.14,
+      "duration": 1.25
+    },
+    {
+      "id": "d15a6c06980e77f7",
+      "name": "South Boss Heal",
+      "ok": true,
+      "score": 237820,
+      "bestTime": 0.07,
+      "duration": 5
+    },
+    {
+      "id": "5fa254a54ac1d8f5",
+      "name": "South Boss Slam Impact",
+      "ok": true,
+      "score": 144777,
+      "bestTime": 0.48,
+      "duration": 5
+    },
+    {
+      "id": "2901c4b52acad50d",
+      "name": "South Boss Tide Projectile",
+      "ok": true,
+      "score": 251310,
+      "bestTime": 0.48,
+      "duration": 5
+    },
+    {
+      "id": "664ee35fa511af2d",
+      "name": "South Boss Tide Telegraph",
+      "ok": true,
+      "score": 929793,
+      "bestTime": 1.5,
+      "duration": 5
+    },
+    {
+      "id": "44219dfbadc94093",
+      "name": "Spark Lance",
+      "ok": true,
+      "score": 692341,
+      "bestTime": 0.14,
+      "duration": 1.25
+    },
+    {
+      "id": "e35194544db13a48",
+      "name": "Spirit Pin",
+      "ok": true,
+      "score": 380833,
+      "bestTime": 0.48,
+      "duration": 1.9
+    },
+    {
+      "id": "1e438821ace59fde",
+      "name": "Sprint dust & paw prints",
+      "ok": true,
+      "score": 1,
+      "bestTime": 0.45,
+      "duration": 5
+    },
+    {
+      "id": "355944a2cc38e752",
+      "name": "Steady Paws",
+      "ok": true,
+      "score": 455527,
+      "bestTime": 0.23,
+      "duration": 1.9
+    },
+    {
+      "id": "d164b76cc43b231f",
+      "name": "Storm Gust",
+      "ok": true,
+      "score": 3399710,
+      "bestTime": 1.1,
+      "duration": 2.5
+    },
+    {
+      "id": "3abb623ffa123d72",
+      "name": "stun",
+      "ok": true,
+      "score": 313393,
+      "bestTime": 0.14,
+      "duration": 5
+    },
+    {
+      "id": "33309225dba953f2",
+      "name": "Sunlit Blessing",
+      "ok": true,
+      "score": 382721,
+      "bestTime": 0.23,
+      "duration": 1.5
+    },
+    {
+      "id": "7e4166da53ebb9c1",
+      "name": "Swiftblade Paws",
+      "ok": true,
+      "score": 534769,
+      "bestTime": 0.23,
+      "duration": 1.5
+    },
+    {
+      "id": "c36064188411684e",
+      "name": "swiftblade quicken",
+      "ok": true,
+      "score": 331522,
+      "bestTime": 0.65,
+      "duration": 5
+    },
+    {
+      "id": "82b68ba84bcdfe5a",
+      "name": "taunt",
+      "ok": true,
+      "score": 182868,
+      "bestTime": 0.07,
+      "duration": 5
+    },
+    {
+      "id": "1af6fec014e28e84",
+      "name": "Taunting Bark",
+      "ok": true,
+      "score": 255841,
+      "bestTime": 0.23,
+      "duration": 1.5
+    },
+    {
+      "id": "9ed79028f72c3b9a",
+      "name": "Thunder Bloom",
+      "ok": true,
+      "score": 3582168,
+      "bestTime": 0.34,
+      "duration": 1.5
+    },
+    {
+      "id": "d5a66d5f62279148",
+      "name": "Toxic Paws",
+      "ok": true,
+      "score": 714698,
+      "bestTime": 0.48,
+      "duration": 1.5
+    },
+    {
+      "id": "e13a41b8ec6a8e13",
+      "name": "Twin Fang Shot",
+      "ok": true,
+      "score": 212143,
+      "bestTime": 0.23,
+      "duration": 1.25
+    },
+    {
+      "id": "ec5cec5e787e731f",
+      "name": "Venom Nibble",
+      "ok": true,
+      "score": 220107,
+      "bestTime": 0.14,
+      "duration": 1.5
+    },
+    {
+      "id": "a09aaa7efebebd9c",
+      "name": "Zoomie Paws",
+      "ok": true,
+      "score": 383051,
+      "bestTime": 0.23,
+      "duration": 1.5
+    },
+    {
+      "id": "d84d951981d3ecf8",
+      "preview": "unity-adapted",
+      "name": "AoE slash blue",
+      "ok": true
+    },
+    {
+      "id": "10e54bfc2c039c86",
+      "preview": "unity-adapted",
+      "name": "AoE slash green",
+      "ok": true
+    },
+    {
+      "id": "5dc3f38a6862ed3e",
+      "preview": "unity-adapted",
+      "name": "AoE slash orange",
+      "ok": true
+    },
+    {
+      "id": "c41d5705bf2a8bea",
+      "preview": "unity-adapted",
+      "name": "Buff",
+      "ok": true
+    },
+    {
+      "id": "fc1e042e09ee6900",
+      "preview": "unity-adapted",
+      "name": "Crystals crossfade",
+      "ok": true
+    },
+    {
+      "id": "1b913f00a87f3b04",
+      "preview": "unity-adapted",
+      "name": "Crystals crossfade 2",
+      "ok": true
+    },
+    {
+      "id": "922357d758581247",
+      "preview": "recording",
+      "name": "Advancing Cut",
+      "ok": true
+    },
+    {
+      "id": "f4005d5f4ecc44f6",
+      "preview": "texture",
+      "name": "after.png",
+      "ok": true
+    },
+    {
+      "id": "2f57b18498bee0eb",
+      "preview": "source",
+      "name": "bulwark effect",
+      "ok": true
+    }
+  ],
+  "errors": [],
+  "failed": [],
+  "mobileOverflow": false,
+  "exportCount": 1
+}
